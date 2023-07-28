@@ -1,5 +1,7 @@
 ## 👨🏻‍💻 Hello my name is Bartosz! 👋🏻
 
+### __*About me:*__
+
 #### __*I am an IT technician by education, and I am interested in programming as a hobby. I like learning about new technologies. I decided to learn programming for Apple devices from scratch. Apart from coding, I'm interested in dj-ing and music production in FL Studio.*__
 
 ### __*Tools and Languages:*__ 
