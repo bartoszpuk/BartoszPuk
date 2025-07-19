@@ -10,7 +10,7 @@
 
 ### __*Practice:*__
 
-<a href="https://www.codewars.com/users/DjMacFly" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/DjMacFly/badges/small" alt="Codewars" /></a> <br> <a href="https://leetcode.com/DjMacFly/" target="_blank" rel="noreferrer" alt="LeetCode" />My LeetCode profile</a> <br> <a href="https://www.codingame.com/profile/356bf03e59e2a66fca2182a4e7f2ba666818305" target="_blank" rel="noreferrer" alt="CodinGame">My CodinGame profile</a> </p> <a href="https://www.hackerrank.com/profile/b_puk" target="_blank" rel="noreferrer" alt="HackerRank">My HackerRank profile </a>
+<a href="https://www.codewars.com/users/DjMacFly" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/DjMacFly/badges/small" alt="Codewars" /></a> <br> <a href="https://leetcode.com/DjMacFly/" target="_blank" rel="noreferrer" alt="LeetCode" />My LeetCode profile</a> <br> <a href="https://www.codingame.com/profile/356bf03e59e2a66fca2182a4e7f2ba666818305" target="_blank" rel="noreferrer" alt="CodinGame">My CodinGame profile</a> <a href="https://www.hackerrank.com/profile/b_puk" target="_blank" rel="noreferrer" alt="HackerRank">My HackerRank profile </a>
 
 ### __*Social:*__
 
