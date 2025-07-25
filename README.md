@@ -10,7 +10,7 @@
 
 ### __*Practice:*__
 
-<a href="https://www.codewars.com/users/B.Puk" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/B.Puk/badges/small" alt="Codewars" /></a> <br> <a href="https://leetcode.com/Bpuk/" target="_blank" rel="noreferrer" alt="LeetCode" />My LeetCode profile</a> <br> <a href="https://www.codingame.com/profile/356bf03e59e2a66fca2182a4e7f2ba666818305" target="_blank" rel="noreferrer" alt="CodinGame">My CodinGame profile</a> <br> <a href="https://www.hackerrank.com/profile/B__Puk" target="_blank" rel="noreferrer" alt="HackerRank">My HackerRank profile </a>
+<a href="https://www.codewars.com/users/B.Puk" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/B.Puk/badges/small" alt="Codewars" /></a> <br> <a href="https://leetcode.com/Bpuk/" target="_blank" rel="noreferrer" alt="LeetCode" />My LeetCode profile</a> <br> <a href="https://www.codingame.com/profile/356bf03e59e2a66fca2182a4e7f2ba666818305" target="_blank" rel="noreferrer" alt="CodinGame">My CodinGame profile</a> <br> <a href="https://www.hackerrank.com/profile/B__Puk" target="_blank" rel="noreferrer" alt="HackerRank">My HackerRank profile </a> <br> <a href="https://codeforces.com/profile/B.Puk" target="_blank" rel="noreferrer" alt+"Codeforces">My Codeforces profile</a> <br> <a href="https://www.codechef.com/users/bpuk" target="_blank" rel="noreferrer" alt+"CodeChef">My CodeChef profile<a?> 
 
 ### __*Social:*__
 
